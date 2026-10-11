@@ -41,7 +41,7 @@ echo "</br>";
 echo "stok:".$produk->stok;
 echo "</br>";
 
-echo "Pajak:".$pajak;
+echo "Pajak:".$pajak "%";
 echo "</br>";
 
 echo "Total Harga Setelah Pajak:Rp.".$total;
